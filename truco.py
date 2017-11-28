@@ -5,7 +5,7 @@ import os
 
 print ('*******************************************************************************************')
 print ('******    Programação II -  2º Ciclo Jogos Digitais                                  ******')
-print ('******   Nome Alexandre Nunes Dal Soglio           RA 1430961711035                  ******')
+print ('******   Nome Alexandre Nunes                      RA 1430961711035                  ******')
 print ('*******************************************************************************************')
 
 print '\n Bora Jogar um Truco \n '
