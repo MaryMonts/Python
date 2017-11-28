@@ -1467,6 +1467,3 @@ if CompPontosPart >= 12:
 elif SeusPontoPart >=12:
 	print '			!! VOCE GANHOU!!!		'
 
-print ''
-print ''
-print ''
